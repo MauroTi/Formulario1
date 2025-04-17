@@ -2,7 +2,7 @@ using System.Diagnostics;
 using Formulario1.DAO;
 using Formulario1.Models;
 using Microsoft.AspNetCore.Mvc;
-using Formulario1.DAO; // Adicione essa referência
+
 
 namespace Formulario1.Controllers
 {
